@@ -120,6 +120,4 @@ whatsappauto/
 
 ---
 
-Let me know if you’d like enhancements like badges, a live demo link, or demo GIF embedded to make the README more engaging!
-::contentReference[oaicite:0]{index=0}
 ```
